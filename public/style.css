@@ -1,0 +1,24 @@
+html {
+  background-color: purple;
+  color: pink;
+  font-family: Arial;
+}
+
+nav { 
+   color: purple;
+}
+
+a {
+  color: red;
+}
+
+a:visited {
+  color:red;
+}
+
+.pizzabox {
+  display:flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
